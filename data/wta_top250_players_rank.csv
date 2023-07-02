@@ -1,0 +1,251 @@
+ranking_date,rank,player_id,points,firstname,lastname,hand,height,country_name,fullname
+20230626,1,216347,8940,Iga,Swiatek,R,176.0,Poland,Iga Swiatek
+20230626,2,214544,8066,Aryna,Sabalenka,R,182.0,Belarus,Aryna Sabalenka
+20230626,3,214981,5090,Elena,Rybakina,R,184.0,Kazakhstan,Elena Rybakina
+20230626,4,202468,4905,Jessica,Pegula,R,170.0,United States,Jessica Pegula
+20230626,5,201614,4845,Caroline,Garcia,R,177.0,France,Caroline Garcia
+20230626,6,202460,3492,Ons,Jabeur,R,167.0,Tunisia,Ons Jabeur
+20230626,7,221103,3305,Cori,Gauff,R,175.0,United States,Cori Gauff
+20230626,8,206289,3301,Maria,Sakkari,R,172.0,Greece,Maria Sakkari
+20230626,9,201520,3101,Petra,Kvitova,L,183.0,Czechia,Petra Kvitova
+20230626,10,206252,2830,Barbora,Krejcikova,R,178.0,Czechia,Barbora Krejcikova
+20230626,11,214082,2685,Daria,Kasatkina,R,170.0,Russian Federation,Daria Kasatkina
+20230626,12,206368,2600,Veronika,Kudermetova,R,175.0,Russian Federation,Veronika Kudermetova
+20230626,13,206242,2560,Beatriz,Haddad Maia,L,185.0,Brazil,Beatriz Haddad Maia
+20230626,14,202505,2380,Belinda,Bencic,R,175.0,Switzerland,Belinda Bencic
+20230626,15,214643,2301,Liudmila,Samsonova,R,180.0,Russian Federation,Liudmila Samsonova
+20230626,16,214096,2294,Karolina,Muchova,R,178.0,Czechia,Karolina Muchova
+20230626,17,211533,2105,Jelena,Ostapenko,R,177.0,Latvia,Jelena Ostapenko
+20230626,18,201662,2025,Karolina,Pliskova,R,184.0,Czechia,Karolina Pliskova
+20230626,19,201458,1996,Victoria,Azarenka,R,180.0,Belarus,Victoria Azarenka
+20230626,20,202499,1975,Donna,Vekic,R,179.0,Croatia,Donna Vekic
+20230626,21,206420,1915,Ekaterina,Alexandrova,R,175.0,Russian Federation,Ekaterina Alexandrova
+20230626,22,215713,1845,Anastasia,Potapova,R,175.0,Russian Federation,Anastasia Potapova
+20230626,23,202663,1765,Magda,Linette,R,171.0,Poland,Magda Linette
+20230626,24,221012,1669,Qinwen,Zheng,R,178.0,China,Qinwen Zheng
+20230626,25,201619,1637,Madison,Keys,R,178.0,United States,Madison Keys
+20230626,26,211843,1527,Anhelina,Kalinina,R,179.0,Ukraine,Anhelina Kalinina
+20230626,27,211095,1519,Bernarda,Pera,L,175.0,United States,Bernarda Pera
+20230626,28,210722,1424,Elise,Mertens,R,179.0,Belgium,Elise Mertens
+20230626,29,201593,1342,Irina Camelia,Begu,R,181.0,Romania,Irina Camelia Begu
+20230626,30,201549,1330,Petra,Martic,R,181.0,Croatia,Petra Martic
+20230626,31,210886,1266,Mayar,Sherif,R,180.0,Egypt,Mayar Sherif
+20230626,32,213631,1258,Marie,Bouzkova,R,180.0,Czechia,Marie Bouzkova
+20230626,33,202684,1247,Lin,Zhu,R,173.0,China,Lin Zhu
+20230626,34,211651,1233,Paula,Badosa,R,180.0,Spain,Paula Badosa
+20230626,35,216146,1200,Marta,Kostyuk,R,175.0,Ukraine,Marta Kostyuk
+20230626,36,201514,1187,Sorana,Cirstea,R,176.0,Romania,Sorana Cirstea
+20230626,37,201533,1173,Shuai,Zhang,R,177.0,China,Shuai Zhang
+20230626,38,201585,1170,Sloane,Stephens,R,170.0,United States,Sloane Stephens
+20230626,39,215020,1118,Anna,Blinkova,R,179.0,Russian Federation,Anna Blinkova
+20230626,40,214954,1106,Marketa,Vondrousova,L,173.0,Czechia,Marketa Vondrousova
+20230626,41,220714,1100,Elisabetta,Cocciaretto,R,166.0,Italy,Elisabetta Cocciaretto
+20230626,42,211148,1100,Jasmine,Paolini,R,160.0,Italy,Jasmine Paolini
+20230626,43,219875,1087,Varvara,Gracheva,R,178.0,Russian Federation,Varvara Gracheva
+20230626,44,201616,1051,Lauren,Davis,R,157.0,United States,Lauren Davis
+20230626,45,222328,1046,Linda,Noskova,R,179.0,Czechia,Linda Noskova
+20230626,46,201603,1045,Shelby,Rogers,R,175.0,United States,Shelby Rogers
+20230626,47,219917,1026,Alycia,Parks,R,185.0,United States,Alycia Parks
+20230626,48,203389,1013,Danielle,Collins,R,178.0,United States,Danielle Collins
+20230626,49,222258,1001,Linda,Fruhvirtova,R,172.0,Czechia,Linda Fruhvirtova
+20230626,50,201594,1000,Simona,Halep,R,168.0,Romania,Simona Halep
+20230626,51,215370,998,Bianca,Andreescu,R,170.0,Canada,Bianca Andreescu
+20230626,52,211701,997,Katerina,Siniakova,R,174.0,Czechia,Katerina Siniakova
+20230626,53,201709,981,Yulia,Putintseva,R,163.0,Kazakhstan,Yulia Putintseva
+20230626,54,211814,970,Julia,Grabher,R,170.0,Austria,Julia Grabher
+20230626,55,220548,961,Peyton,Stearns,R,173.0,United States,Peyton Stearns
+20230626,56,201615,942,Lesia,Tsurenko,R,174.0,Ukraine,Lesia Tsurenko
+20230626,57,214939,933,Anna,Kalinskaya,R,175.0,Russian Federation,Anna Kalinskaya
+20230626,58,213583,920,Tatjana,Maria,R,172.0,Germany,Tatjana Maria
+20230626,59,201548,912,Ajla,Tomljanovic,R,180.0,Australia,Ajla Tomljanovic
+20230626,60,215613,910,Emma,Navarro,R,170.0,United States,Emma Navarro
+20230626,61,202536,907,Ana,Bogdan,R,171.0,Romania,Ana Bogdan
+20230626,62,203354,897,Martina,Trevisan,L,160.0,Italy,Martina Trevisan
+20230626,63,216083,884,Caty,Mcnally,R,180.0,United States,Caty Mcnally
+20230626,64,220589,882,Elina,Avanesyan,R,172.0,Russian Federation,Elina Avanesyan
+20230626,65,214459,880,Lucia,Bronzetti,R,170.0,Italy,Lucia Bronzetti
+20230626,66,205925,868,Aliaksandra,Sasnovich,R,174.0,Belarus,Aliaksandra Sasnovich
+20230626,67,202429,865,Camila,Giorgi,R,168.0,Italy,Camila Giorgi
+20230626,68,211684,858,Magdalena,Frech,R,171.0,Poland,Magdalena Frech
+20230626,69,214119,847,Rebeka,Masarova,R,186.0,Spain,Rebeka Masarova
+20230626,70,215872,837,Kamilla,Rakhimova,R,170.0,Russian Federation,Kamilla Rakhimova
+20230626,71,216133,833,Xin Yu,Wang,R,182.0,China,Xin Yu Wang
+20230626,72,202490,814,Rebecca,Peterson,R,173.0,Sweden,Rebecca Peterson
+20230626,73,216016,808,Xiyu,Wang,L,182.0,China,Xiyu Wang
+20230626,74,201427,800,Alize,Cornet,R,173.0,France,Alize Cornet
+20230626,75,202494,798,Elina,Svitolina,R,174.0,Ukraine,Elina Svitolina
+20230626,76,203533,792,Anna Karolina,Schmiedlova,R,176.0,Slovakia,Anna Karolina Schmiedlova
+20230626,77,213710,790,Cristina,Bucsa,U,175.0,Spain,Cristina Bucsa
+20230626,78,206408,784,Nadia,Podoroska,R,170.0,Argentina,Nadia Podoroska
+20230626,79,204426,779,Anett,Kontaveit,R,174.0,Estonia,Anett Kontaveit
+20230626,80,201506,772,Sara,Errani,R,164.0,Italy,Sara Errani
+20230626,81,215785,769,Camila,Osorio,R,162.0,Colombia,Camila Osorio
+20230626,82,215910,762,Panna,Udvardy,R,170.0,Hungary,Panna Udvardy
+20230626,83,201606,757,Rebecca,Marino,R,183.0,Canada,Rebecca Marino
+20230626,84,204427,754,Sara,Sorribes Tormo,R,176.0,Spain,Sara Sorribes Tormo
+20230626,85,201551,747,Arantxa,Rus,L,180.0,Netherlands,Arantxa Rus
+20230626,86,203462,745,Kateryna,Baindl,R,175.0,Ukraine,Kateryna Baindl
+20230626,87,204431,738,Anna Lena,Friedsam,R,174.0,Germany,Anna Lena Friedsam
+20230626,88,211107,733,Katie,Boulter,R,180.0,United Kingdom,Katie Boulter
+20230626,89,203575,732,Danka,Kovinic,R,169.0,Montenegro,Danka Kovinic
+20230626,90,204434,730,Ysaline,Bonaventure,L,178.0,Belgium,Ysaline Bonaventure
+20230626,91,220704,725,Clara,Tauson,R,182.0,Denmark,Clara Tauson
+20230626,92,202628,717,Maryna,Zanevska,R,175.0,Belgium,Maryna Zanevska
+20230626,93,215337,713,Olga,Danilovic,L,183.0,Serbia,Olga Danilovic
+20230626,94,220348,710,Diane,Parry,R,170.0,France,Diane Parry
+20230626,95,214906,705,Claire,Liu,R,170.0,United States,Claire Liu
+20230626,96,220367,692,Leylah,Fernandez,L,168.0,Canada,Leylah Fernandez
+20230626,97,216097,692,Elizabeth,Mandlik,U,170.0,United States,Elizabeth Mandlik
+20230626,98,223670,684,Diana,Shnaider,L,,Russian Federation,Diana Shnaider
+20230626,99,202600,680,Viktoriya,Tomova,R,170.0,Bulgaria,Viktoriya Tomova
+20230626,100,214452,676,Caroline,Dolehide,R,178.0,United States,Caroline Dolehide
+20230626,101,201466,667,Kaia,Kanepi,R,181.0,Estonia,Kaia Kanepi
+20230626,102,259799,651,Mirra,Andreeva,U,171.0,Russian Federation,Mirra Andreeva
+20230626,103,215898,650,Jule,Niemeier,R,178.0,Germany,Jule Niemeier
+20230626,104,216262,647,Clara,Burel,R,176.0,France,Clara Burel
+20230626,105,203463,642,Nuria,Parrizas Diaz,R,167.0,Spain,Nuria Parrizas Diaz
+20230626,106,206294,642,Yue,Yuan,U,184.0,China,Yue Yuan
+20230626,107,203501,639,Taylor,Townsend,L,170.0,United States,Taylor Townsend
+20230626,108,221909,637,Ashlyn,Krueger,R,185.0,United States,Ashlyn Krueger
+20230626,109,214388,635,Anna,Bondar,R,175.0,Hungary,Anna Bondar
+20230626,110,214593,634,Lucrezia,Stefanini,R,164.0,Italy,Lucrezia Stefanini
+20230626,111,201518,628,Yanina,Wickmayer,R,182.0,Belgium,Yanina Wickmayer
+20230626,112,206219,627,Oceane,Dodin,R,183.0,France,Oceane Dodin
+20230626,113,206124,621,Tereza,Martincova,R,178.0,Czechia,Tereza Martincova
+20230626,114,201483,617,Madison,Brengle,R,168.0,United States,Madison Brengle
+20230626,115,215899,616,Simona,Waltert,R,174.0,Switzerland,Simona Waltert
+20230626,116,214040,616,Kimberly,Birrell,R,170.0,Australia,Kimberly Birrell
+20230626,117,211901,614,Aliona,Bolsova,R,172.0,"Moldova, Republic of",Aliona Bolsova
+20230626,118,201499,609,Anastasia,Pavlyuchenkova,R,177.0,Russian Federation,Anastasia Pavlyuchenkova
+20230626,119,215037,608,Kayla,Day,L,173.0,United States,Kayla Day
+20230626,120,211337,603,Tamara,Korpatsch,R,170.0,Germany,Tamara Korpatsch
+20230626,121,213889,601,Greet,Minnen,R,175.0,Belgium,Greet Minnen
+20230626,122,204294,591,Su Jeong,Jang,R,170.0,"Korea, Republic of",Su Jeong Jang
+20230626,123,220465,590,Katie,Volynets,R,170.0,United States,Katie Volynets
+20230626,124,213646,584,Dalma,Galfi,U,178.0,Hungary,Dalma Galfi
+20230626,125,211702,584,Nao,Hibino,R,163.0,Japan,Nao Hibino
+20230626,126,213550,582,Sofia,Kenin,R,170.0,United States,Sofia Kenin
+20230626,127,214149,582,Viktoria,Kuzmova,R,180.0,Slovakia,Viktoria Kuzmova
+20230626,128,214839,572,Jodie,Burrage,R,175.0,United Kingdom,Jodie Burrage
+20230626,129,213525,571,Jil,Teichmann,L,170.0,Switzerland,Jil Teichmann
+20230626,130,211316,556,Jessika,Ponchet,R,,France,Jessika Ponchet
+20230626,131,215453,551,Marina,Bassols Ribera,U,165.0,Spain,Marina Bassols Ribera
+20230626,132,221054,548,Emma,Raducanu,R,175.0,United Kingdom,Emma Raducanu
+20230626,133,211713,541,Jaqueline,Cristian,R,180.0,Romania,Jaqueline Cristian
+20230626,134,206007,536,Laura,Pigossi,R,164.0,Brazil,Laura Pigossi
+20230626,135,214405,527,Mirjam,Bjorklund,U,170.0,Sweden,Mirjam Bjorklund
+20230626,136,216265,519,Olivia,Gadecki,R,,Australia,Olivia Gadecki
+20230626,137,259104,517,Brenda,Fruhvirtova,R,,Czechia,Brenda Fruhvirtova
+20230626,138,203530,511,Viktorija,Golubic,R,169.0,Switzerland,Viktorija Golubic
+20230626,139,211765,503,Emina,Bektas,R,,United States,Emina Bektas
+20230626,140,201590,502,Alison,Riske Amritraj,R,173.0,United States,Alison Riske Amritraj
+20230626,141,214604,498,Maria,Carle,R,,Argentina,Maria Carle
+20230626,142,211279,492,Harriet,Dart,R,175.0,United Kingdom,Harriet Dart
+20230626,143,206417,491,Leolia,Jeanjean,R,168.0,France,Leolia Jeanjean
+20230626,144,214461,484,Tamara,Zidansek,R,168.0,Slovenia,Tamara Zidansek
+20230626,145,221236,483,Polina,Kudermetova,R,,Russian Federation,Polina Kudermetova
+20230626,146,215042,482,Katie,Swan,R,170.0,United Kingdom,Katie Swan
+20230626,147,221905,478,Robin,Montgomery,L,178.0,United States,Robin Montgomery
+20230626,148,222965,477,Erika,Andreeva,R,,Russian Federation,Erika Andreeva
+20230626,149,201586,477,Heather,Watson,R,170.0,United Kingdom,Heather Watson
+20230626,150,220699,469,Julia,Riera,U,170.0,Argentina,Julia Riera
+20230626,151,220750,463,Daria,Snigur,R,173.0,Ukraine,Daria Snigur
+20230626,152,215035,462,Dayana,Yastremska,R,175.0,Ukraine,Dayana Yastremska
+20230626,153,220416,459,Moyuka,Uchijima,R,171.0,Japan,Moyuka Uchijima
+20230626,154,201696,452,Laura,Siegemund,R,168.0,Germany,Laura Siegemund
+20230626,155,202436,446,Reka Luca,Jani,R,161.0,Hungary,Reka Luca Jani
+20230626,156,211951,442,Ana,Konjuh,R,174.0,Croatia,Ana Konjuh
+20230626,157,214684,441,Katherine,Sebov,R,173.0,Canada,Katherine Sebov
+20230626,158,213576,437,Iryna,Shymanovich,R,,Belarus,Iryna Shymanovich
+20230626,159,220332,436,Eva,Lys,R,165.0,Germany,Eva Lys
+20230626,160,213837,428,Ylena,In Albon,R,162.0,Switzerland,Ylena In Albon
+20230626,161,211817,427,Elena Gabriela,Ruse,U,173.0,Romania,Elena Gabriela Ruse
+20230626,162,204411,423,Storm,Sanders,L,166.0,Australia,Storm Sanders
+20230626,163,203500,422,Sachia,Vickery,R,162.0,United States,Sachia Vickery
+20230626,164,204394,419,Valentini,Grammatikopoulou,U,164.0,Greece,Valentini Grammatikopoulou
+20230626,165,232447,415,Celine,Naef,U,,Switzerland,Celine Naef
+20230626,166,203475,411,Carol,Zhao,R,165.0,Canada,Carol Zhao
+20230626,167,222601,410,Jessica,Bouzas Maneiro,R,,Spain,Jessica Bouzas Maneiro
+20230626,168,220722,410,Elvina,Kalieva,R,,United States,Elvina Kalieva
+20230626,169,215096,407,Jaimee,Fourlis,R,168.0,Australia,Jaimee Fourlis
+20230626,170,221124,407,Himeno,Sakatsume,R,158.0,Japan,Himeno Sakatsume
+20230626,171,216153,399,Amanda,Anisimova,R,180.0,United States,Amanda Anisimova
+20230626,172,201672,399,Nigina,Abduraimova,R,184.0,Uzbekistan,Nigina Abduraimova
+20230626,173,213779,399,Raluka,Serban,R,188.0,Cyprus,Raluka Serban
+20230626,174,211685,397,Rebecca,Sramkova,R,179.0,Slovakia,Rebecca Sramkova
+20230626,175,215988,395,Mai,Hontama,R,164.0,Japan,Mai Hontama
+20230626,176,223087,395,Tara,Wurth,R,,Croatia,Tara Wurth
+20230626,177,215572,390,Nuria,Brancaccio,R,,Italy,Nuria Brancaccio
+20230626,178,203564,385,Chloe,Paquet,R,179.0,France,Chloe Paquet
+20230626,179,211880,384,Priscilla,Hon,R,171.0,Australia,Priscilla Hon
+20230626,180,221039,381,Elsa,Jacquemot,R,176.0,France,Elsa Jacquemot
+20230626,181,221911,381,Selena,Janicijevic,U,183.0,France,Selena Janicijevic
+20230626,182,223286,380,Victoria,Jimenez Kasintseva,L,172.0,Andorra,Victoria Jimenez Kasintseva
+20230626,183,215290,379,Katarina,Zavatska,R,173.0,Ukraine,Katarina Zavatska
+20230626,184,215306,379,Emiliana,Arango,R,172.0,Colombia,Emiliana Arango
+20230626,185,221512,376,Katrina,Scott,R,180.0,United States,Katrina Scott
+20230626,186,220742,376,Leyre,Romero Gormaz,L,,Spain,Leyre Romero Gormaz
+20230626,187,221407,375,Oksana,Selekhmeteva,L,172.0,Russian Federation,Oksana Selekhmeteva
+20230626,188,202604,373,Despina,Papamichail,R,178.0,Greece,Despina Papamichail
+20230626,189,204291,371,Na Lae,Han,L,165.0,"Korea, Republic of",Na Lae Han
+20230626,190,204420,371,Marcela,Zacarias,R,160.0,Mexico,Marcela Zacarias
+20230626,191,222296,371,Zhuoxuan,Bai,R,,China,Zhuoxuan Bai
+20230626,192,201535,366,Coco,Vandeweghe,R,185.0,United States,Coco Vandeweghe
+20230626,193,221257,365,Sinja,Kraus,R,,Austria,Sinja Kraus
+20230626,194,215996,364,Arianne,Hartono,R,,Netherlands,Arianne Hartono
+20230626,195,238075,364,Petra,Marcinko,U,,Croatia,Petra Marcinko
+20230626,196,201693,364,Timea,Babos,R,179.0,Hungary,Timea Babos
+20230626,197,206102,362,Ankita,Raina,R,163.0,India,Ankita Raina
+20230626,198,202440,361,Paula,Ormaechea,R,170.0,Argentina,Paula Ormaechea
+20230626,199,215983,358,Ann,Li,R,170.0,United States,Ann Li
+20230626,200,213855,358,Magali,Kempen,R,,Belgium,Magali Kempen
+20230626,201,201621,356,Mona,Barthel,R,185.0,Germany,Mona Barthel
+20230626,202,204246,354,Lesley,Pattinama Kerkhove,R,172.0,Netherlands,Lesley Pattinama Kerkhove
+20230626,203,220733,354,Carole,Monnet,L,,France,Carole Monnet
+20230626,204,239383,353,Sara,Bejlek,L,157.0,Czechia,Sara Bejlek
+20230626,205,222980,352,Lucie,Havlickova,R,,Czechia,Lucie Havlickova
+20230626,206,202469,350,Garbine,Muguruza,R,182.0,Spain,Garbine Muguruza
+20230626,207,220309,349,Zeynep,Sonmez,U,,Turkey,Zeynep Sonmez
+20230626,208,221985,348,Darja,Semenistaja,R,,Latvia,Darja Semenistaja
+20230626,209,221178,345,Darya,Astakhova,R,,Russian Federation,Darya Astakhova
+20230626,210,210705,345,Irina,Bara,R,164.0,Romania,Irina Bara
+20230626,211,202434,344,Aleksandra,Krunic,R,163.0,Serbia,Aleksandra Krunic
+20230626,212,201540,342,Kristina,Mladenovic,R,184.0,France,Kristina Mladenovic
+20230626,213,221024,341,Hailey,Baptiste,R,,United States,Hailey Baptiste
+20230626,214,223333,339,Noma,Noha Akugue,L,170.0,Germany,Noma Noha Akugue
+20230626,215,223323,337,Barbora,Palicova,R,,Czechia,Barbora Palicova
+20230626,216,221237,337,Maria,Timofeeva,R,,Russian Federation,Maria Timofeeva
+20230626,217,213998,337,Ipek,Oz,U,178.0,Turkey,Ipek Oz
+20230626,218,202446,335,Eugenie,Bouchard,R,178.0,Canada,Eugenie Bouchard
+20230626,219,215806,335,Alice,Robbe,U,,France,Alice Robbe
+20230626,220,214480,334,Miriam Bianca,Bulgaru,R,,Romania,Miriam Bianca Bulgaru
+20230626,221,221247,325,Ekaterina,Makarova,R,180.0,Russian Federation,Ekaterina Makarova
+20230626,222,215798,323,Rosa,Vicens Mas,U,,Spain,Rosa Vicens Mas
+20230626,223,210337,322,Natalija,Stevanovic,R,164.0,Serbia,Natalija Stevanovic
+20230626,224,211260,320,Marie,Benoit,L,,Belgium,Marie Benoit
+20230626,225,206430,319,Carolina,Alves,U,170.0,Brazil,Carolina Alves
+20230626,226,220718,318,Sakura,Hosogi,U,159.0,Japan,Sakura Hosogi
+20230626,227,213873,317,Gabriela Andrea,Knutson,R,175.0,Czechia,Gabriela Andrea Knutson
+20230626,228,201611,314,Daria,Saville,R,166.0,Australia,Daria Saville
+20230626,229,206374,314,Yafan,Wang,R,170.0,China,Yafan Wang
+20230626,230,201613,309,Arina,Rodionova,R,168.0,Russian Federation,Arina Rodionova
+20230626,231,220781,309,Carlota,Martinez Cirez,R,,Spain,Carlota Martinez Cirez
+20230626,232,220435,308,Anastasia,Zakharova,U,170.0,Russian Federation,Anastasia Zakharova
+20230626,233,236955,308,Tatiana,Barkova,U,,Russian Federation,Tatiana Barkova
+20230626,234,220808,307,Kristina,Dmitruk,R,,Belarus,Kristina Dmitruk
+20230626,235,214694,306,Karman,Thandi,R,183.0,India,Karman Thandi
+20230626,236,213666,305,Maddison,Inglis,R,171.0,Australia,Maddison Inglis
+20230626,237,214081,303,Katharina,Hobgarski,R,171.0,Germany,Katharina Hobgarski
+20230626,238,213706,301,Irene,Burillo Escorihuela,R,,Spain,Irene Burillo Escorihuela
+20230626,239,213887,301,Renata,Zarazua,R,160.0,Mexico,Renata Zarazua
+20230626,240,203435,300,Dalila,Jakupovic,R,178.0,Slovenia,Dalila Jakupovic
+20230626,241,215219,299,Kaja,Juvan,R,170.0,Slovenia,Kaja Juvan
+20230626,242,213908,299,Yuriko,Miyazaki,R,165.0,United Kingdom,Yuriko Miyazaki
+20230626,243,202443,299,Valeria,Savinykh,R,167.0,Russian Federation,Valeria Savinykh
+20230626,244,221073,298,Anastasia,Tikhonova,R,,Russian Federation,Anastasia Tikhonova
+20230626,245,211844,297,Haruka,Kaji,R,,Japan,Haruka Kaji
+20230626,246,220662,296,Veronika,Erjavec,R,,Slovenia,Veronika Erjavec
+20230626,247,211227,295,Lina,Gjorcheska,R,180.0,North Macedonia,Lina Gjorcheska
+20230626,248,201554,294,Vitalia,Diatchenko,R,170.0,Russian Federation,Vitalia Diatchenko
+20230626,249,211635,292,Louisa,Chirico,R,175.0,United States,Louisa Chirico
+20230626,250,222045,292,Antonia,Ruzic,R,,Croatia,Antonia Ruzic

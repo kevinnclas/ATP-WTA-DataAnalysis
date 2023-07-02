@@ -1,0 +1,251 @@
+ranking_date,rank,player_id,points,firstname,lastname,hand,height,country_name,fullname
+20230626,1,207989,7675,Carlos,Alcaraz,R,185.0,Spain,Carlos Alcaraz
+20230626,2,104925,7595,Novak,Djokovic,R,188.0,Serbia,Novak Djokovic
+20230626,3,106421,5890,Daniil,Medvedev,R,198.0,Russian Federation,Daniil Medvedev
+20230626,4,134770,4960,Casper,Ruud,R,183.0,Norway,Casper Ruud
+20230626,5,126774,4670,Stefanos,Tsitsipas,R,193.0,Greece,Stefanos Tsitsipas
+20230626,6,208029,4510,Holger,Rune,R,185.0,Denmark,Holger Rune
+20230626,7,126094,4255,Andrey,Rublev,R,188.0,Russian Federation,Andrey Rublev
+20230626,8,206173,3345,Jannik,Sinner,R,188.0,Italy,Jannik Sinner
+20230626,9,126203,3310,Taylor,Fritz,R,193.0,United States,Taylor Fritz
+20230626,10,126207,3085,Frances,Tiafoe,R,188.0,United States,Frances Tiafoe
+20230626,11,111575,3035,Karen,Khachanov,R,198.0,Russian Federation,Karen Khachanov
+20230626,12,200000,2760,Felix,Auger Aliassime,R,193.0,Canada,Felix Auger Aliassime
+20230626,13,111815,2610,Cameron,Norrie,L,188.0,United Kingdom,Cameron Norrie
+20230626,14,106432,2305,Borna,Coric,R,188.0,Croatia,Borna Coric
+20230626,15,207518,2210,Lorenzo,Musetti,R,185.0,Italy,Lorenzo Musetti
+20230626,16,200282,2115,Alex,De Minaur,R,183.0,Australia,Alex De Minaur
+20230626,17,126205,2110,Tommy,Paul,R,185.0,United States,Tommy Paul
+20230626,18,128034,2060,Hubert,Hurkacz,R,196.0,Poland,Hubert Hurkacz
+20230626,19,202103,1655,Francisco,Cerundolo,R,185.0,Argentina,Francisco Cerundolo
+20230626,20,105807,1640,Pablo,Carreno Busta,R,188.0,Spain,Pablo Carreno Busta
+20230626,21,100644,1630,Alexander,Zverev,R,198.0,Germany,Alexander Zverev
+20230626,22,105526,1625,Jan Lennard,Struff,R,193.0,Germany,Jan Lennard Struff
+20230626,23,105138,1480,Roberto,Bautista Agut,R,183.0,Spain,Roberto Bautista Agut
+20230626,24,105777,1430,Grigor,Dimitrov,R,188.0,Bulgaria,Grigor Dimitrov
+20230626,25,200624,1355,Sebastian,Korda,R,196.0,United States,Sebastian Korda
+20230626,26,122330,1354,Alexander,Bublik,R,196.0,Kazakhstan,Alexander Bublik
+20230626,27,106415,1351,Yoshihito,Nishioka,L,170.0,Japan,Yoshihito Nishioka
+20230626,28,111797,1336,Nicolas,Jarry,R,198.0,Chile,Nicolas Jarry
+20230626,29,133430,1335,Denis,Shapovalov,L,185.0,Canada,Denis Shapovalov
+20230626,30,105554,1321,Daniel,Evans,R,175.0,United Kingdom,Daniel Evans
+20230626,31,134868,1254,Tallon,Griekspoor,R,188.0,Netherlands,Tallon Griekspoor
+20230626,32,144869,1201,Tomas Martin,Etcheverry,R,196.0,Argentina,Tomas Martin Etcheverry
+20230626,33,106401,1175,Nick,Kyrgios,R,193.0,Australia,Nick Kyrgios
+20230626,34,200221,1115,Alejandro,Davidovich Fokina,R,183.0,Spain,Alejandro Davidovich Fokina
+20230626,35,210097,1094,Ben,Shelton,L,193.0,United States,Ben Shelton
+20230626,36,208103,1083,Jiri,Lehecka,R,185.0,Czechia,Jiri Lehecka
+20230626,37,126610,1082,Matteo,Berrettini,R,196.0,Italy,Matteo Berrettini
+20230626,38,200005,1042,Ugo,Humbert,L,188.0,France,Ugo Humbert
+20230626,39,104918,1030,Andy,Murray,R,190.0,United Kingdom,Andy Murray
+20230626,40,132283,1015,Lorenzo,Sonego,R,191.0,Italy,Lorenzo Sonego
+20230626,41,200175,985,Miomir,Kecmanovic,R,183.0,Serbia,Miomir Kecmanovic
+20230626,42,122298,975,Botic,Van De Zandschulp,R,188.0,Netherlands,Botic Van De Zandschulp
+20230626,43,105173,972,Adrian,Mannarino,L,183.0,France,Adrian Mannarino
+20230626,44,202104,945,Sebastian,Baez,R,170.0,Argentina,Sebastian Baez
+20230626,45,200325,936,Emil,Ruusuvuori,R,188.0,Finland,Emil Ruusuvuori
+20230626,46,200670,889,J J,Wolf,R,183.0,United States,J J Wolf
+20230626,47,106234,888,Aslan,Karatsev,R,185.0,Russian Federation,Aslan Karatsev
+20230626,48,105870,880,Yannick,Hanfmann,R,193.0,Germany,Yannick Hanfmann
+20230626,49,104755,875,Richard,Gasquet,R,185.0,France,Richard Gasquet
+20230626,50,126523,856,Bernabe,Zapata Miralles,R,185.0,Spain,Bernabe Zapata Miralles
+20230626,51,206909,855,Brandon,Nakashima,R,185.0,United States,Brandon Nakashima
+20230626,52,105583,854,Dusan,Lajovic,R,180.0,Serbia,Dusan Lajovic
+20230626,53,106148,850,Roberto,Carballes Baena,R,183.0,Spain,Roberto Carballes Baena
+20230626,54,111190,836,Zhizhen,Zhang,R,193.0,China,Zhizhen Zhang
+20230626,55,202195,835,Maxime,Cressy,R,198.0,United States,Maxime Cressy
+20230626,56,111513,820,Laslo,Djere,R,188.0,Serbia,Laslo Djere
+20230626,57,106296,817,Gregoire,Barrere,R,183.0,France,Gregoire Barrere
+20230626,58,209950,816,Arthur,Fils,R,185.0,France,Arthur Fils
+20230626,59,200059,814,Yibing,Wu,R,183.0,China,Yibing Wu
+20230626,60,122669,806,Juan Pablo,Varillas,R,185.0,Peru,Juan Pablo Varillas
+20230626,61,144707,796,Mikael,Ymer,R,183.0,Sweden,Mikael Ymer
+20230626,62,126845,796,Max,Purcell,R,185.0,Australia,Max Purcell
+20230626,63,106218,795,Marcos,Giron,R,180.0,United States,Marcos Giron
+20230626,64,111456,785,Mackenzie,Mcdonald,R,178.0,United States,Mackenzie Mcdonald
+20230626,65,127157,778,Daniel,Altmaier,R,191.0,Germany,Daniel Altmaier
+20230626,66,105916,777,Marton,Fucsovics,R,188.0,Hungary,Marton Fucsovics
+20230626,67,106398,772,Pedro,Cachin,R,185.0,Argentina,Pedro Cachin
+20230626,68,132686,770,Nuno,Borges,R,185.0,Portugal,Nuno Borges
+20230626,69,124116,768,Sebastian,Ofner,R,191.0,Austria,Sebastian Ofner
+20230626,70,106331,766,Christopher,Oconnell,R,183.0,Australia,Christopher Oconnell
+20230626,71,111442,765,Jordan,Thompson,R,183.0,Australia,Jordan Thompson
+20230626,72,105077,752,Albert,Ramos,L,188.0,Spain,Albert Ramos
+20230626,73,106005,751,Constant,Lestienne,R,180.0,France,Constant Lestienne
+20230626,74,106186,742,Jason,Kubler,R,178.0,Australia,Jason Kubler
+20230626,75,207733,741,Jack,Draper,L,191.0,United Kingdom,Jack Draper
+20230626,76,111460,741,Quentin,Halys,R,191.0,France,Quentin Halys
+20230626,77,111153,738,Christopher,Eubanks,R,201.0,United States,Christopher Eubanks
+20230626,78,208286,737,Matteo,Arnaldi,R,183.0,Italy,Matteo Arnaldi
+20230626,79,209414,736,Luca,Van Assche,R,180.0,France,Luca Van Assche
+20230626,80,144895,723,Corentin,Moutet,L,178.0,France,Corentin Moutet
+20230626,81,144684,721,Alex,Molcan,L,178.0,Slovakia,Alex Molcan
+20230626,82,124186,711,Alexandre,Muller,R,183.0,France,Alexandre Muller
+20230626,83,144817,705,Marc Andrea,Huesler,L,196.0,Switzerland,Marc Andrea Huesler
+20230626,84,123755,687,Daniel Elahi,Galan,R,191.0,Colombia,Daniel Elahi Galan
+20230626,85,126239,681,Arthur,Rinderknech,R,196.0,France,Arthur Rinderknech
+20230626,86,136440,681,Dominik,Koepfer,L,180.0,Germany,Dominik Koepfer
+20230626,87,104527,674,Stan,Wawrinka,R,183.0,Switzerland,Stan Wawrinka
+20230626,88,106065,673,Marco,Cecchinato,R,185.0,Italy,Marco Cecchinato
+20230626,89,106423,667,Thanasi,Kokkinakis,R,196.0,Australia,Thanasi Kokkinakis
+20230626,90,106233,666,Dominic,Thiem,R,185.0,Austria,Dominic Thiem
+20230626,91,126846,654,Aleksandar,Vukic,R,188.0,Australia,Aleksandar Vukic
+20230626,92,200615,645,Alexei,Popyrin,R,196.0,Australia,Alexei Popyrin
+20230626,93,126127,638,Benjamin,Bonzi,R,185.0,France,Benjamin Bonzi
+20230626,94,126128,631,Roman,Safiullin,R,185.0,Russian Federation,Roman Safiullin
+20230626,95,206681,626,Fabian,Marozsan,R,191.0,Hungary,Fabian Marozsan
+20230626,96,106329,625,Thiago,Monteiro,L,183.0,Brazil,Thiago Monteiro
+20230626,97,207686,623,Alexander,Shevchenko,R,185.0,Russian Federation,Alexander Shevchenko
+20230626,98,106043,615,Diego,Schwartzman,R,170.0,Argentina,Diego Schwartzman
+20230626,99,126952,614,Soon Woo,Kwon,R,180.0,"Korea, Republic of",Soon Woo Kwon
+20230626,100,105227,610,Marin,Cilic,R,198.0,Croatia,Marin Cilic
+20230626,101,202385,610,Jenson,Brooksby,R,188.0,United States,Jenson Brooksby
+20230626,102,125802,607,Ilya,Ivashka,R,193.0,Belarus,Ilya Ivashka
+20230626,103,104545,595,John,Isner,R,206.0,United States,John Isner
+20230626,104,105948,585,Federico,Coria,R,180.0,Argentina,Federico Coria
+20230626,105,106121,584,Taro,Daniel,R,191.0,Japan,Taro Daniel
+20230626,106,105430,580,Radu,Albot,R,175.0,"Moldova, Republic of",Radu Albot
+20230626,107,207830,573,Tomas,Machac,R,183.0,Czechia,Tomas Machac
+20230626,108,144719,570,Jaume,Munar,R,183.0,Spain,Jaume Munar
+20230626,109,105902,565,James,Duckworth,R,183.0,Australia,James Duckworth
+20230626,110,207678,560,Juan Manuel,Cerundolo,L,183.0,Argentina,Juan Manuel Cerundolo
+20230626,111,127339,557,Borna,Gojo,R,196.0,Croatia,Borna Gojo
+20230626,112,200436,557,Zsombor,Piros,R,180.0,Hungary,Zsombor Piros
+20230626,113,208014,551,Rinky,Hijikata,U,178.0,Australia,Rinky Hijikata
+20230626,114,207680,548,Facundo,Diaz Acosta,L,183.0,Argentina,Facundo Diaz Acosta
+20230626,115,133297,547,Yosuke,Watanuki,R,180.0,Japan,Yosuke Watanuki
+20230626,116,200303,540,Pavel,Kotov,R,191.0,Russian Federation,Pavel Kotov
+20230626,117,208502,535,Dominic,Stricker,L,180.0,Switzerland,Dominic Stricker
+20230626,118,200514,533,Jurij,Rodionov,L,191.0,Austria,Jurij Rodionov
+20230626,119,111581,527,Michael,Mmoh,R,188.0,United States,Michael Mmoh
+20230626,120,206499,519,Aleksandar,Kovacevic,U,183.0,United States,Aleksandar Kovacevic
+20230626,121,104926,513,Fabio,Fognini,R,178.0,Italy,Fabio Fognini
+20230626,122,124079,505,Pedro,Martinez,R,185.0,Spain,Pedro Martinez
+20230626,123,105676,503,David,Goffin,R,180.0,Belgium,David Goffin
+20230626,124,106426,498,Cristian,Garin,R,185.0,Chile,Cristian Garin
+20230626,125,206748,497,Giulio,Zeppieri,L,185.0,Italy,Giulio Zeppieri
+20230626,126,105487,496,Facundo,Bagnis,L,183.0,Argentina,Facundo Bagnis
+20230626,127,105877,492,Emilio,Gomez,R,185.0,Ecuador,Emilio Gomez
+20230626,128,131934,482,Andrea,Vavassori,R,193.0,Italy,Andrea Vavassori
+20230626,129,126409,478,Hugo,Grenier,R,196.0,France,Hugo Grenier
+20230626,130,202261,473,Otto,Virtanen,R,191.0,Finland,Otto Virtanen
+20230626,131,205734,462,Thiago,Seyboth Wild,R,185.0,Brazil,Thiago Seyboth Wild
+20230626,132,202058,456,Thiago Agustin,Tirante,R,185.0,Argentina,Thiago Agustin Tirante
+20230626,133,144642,456,Tomas,Barrios Vera,R,191.0,Chile,Tomas Barrios Vera
+20230626,134,200335,453,Felipe,Meligeni Alves,R,185.0,Brazil,Felipe Meligeni Alves
+20230626,135,134840,447,Raul,Brancaccio,R,185.0,Italy,Raul Brancaccio
+20230626,136,104745,445,Rafael,Nadal,L,185.0,Spain,Rafael Nadal
+20230626,137,200384,445,Hugo,Gaston,L,173.0,France,Hugo Gaston
+20230626,138,207608,443,Timofey,Skatov,R,173.0,Russian Federation,Timofey Skatov
+20230626,139,209070,442,Arthur,Cazaux,R,183.0,France,Arthur Cazaux
+20230626,140,209113,437,Gabriel,Diallo,R,203.0,Canada,Gabriel Diallo
+20230626,141,209209,432,Filip,Misolic,R,180.0,Austria,Filip Misolic
+20230626,142,134457,416,Nicolas,Moreno De Alboran,R,185.0,United States,Nicolas Moreno De Alboran
+20230626,143,123809,414,Ivan,Gakhov,L,191.0,Russian Federation,Ivan Gakhov
+20230626,144,126214,411,Alejandro,Tabilo,L,188.0,Chile,Alejandro Tabilo
+20230626,145,105613,406,Norbert,Gombos,R,193.0,Slovakia,Norbert Gombos
+20230626,146,105332,404,Benoit,Paire,R,196.0,France,Benoit Paire
+20230626,147,106281,402,Liam,Broady,L,183.0,United Kingdom,Liam Broady
+20230626,148,208859,402,Francesco,Passaro,R,180.0,Italy,Francesco Passaro
+20230626,149,208353,391,Francesco,Maestrelli,U,196.0,Italy,Francesco Maestrelli
+20230626,150,207925,390,Flavio,Cobolli,R,,Italy,Flavio Cobolli
+20230626,151,106075,385,Jozef,Kovalik,R,183.0,Slovakia,Jozef Kovalik
+20230626,152,127760,385,Lukas,Klein,R,193.0,Slovakia,Lukas Klein
+20230626,153,133835,383,Gijs,Brouwer,L,191.0,Netherlands,Gijs Brouwer
+20230626,154,208134,381,Luca,Nardi,R,185.0,Italy,Luca Nardi
+20230626,155,209992,373,Juncheng,Shang,L,,China,Juncheng Shang
+20230626,156,209098,371,Hamad,Medjedovic,R,185.0,Serbia,Hamad Medjedovic
+20230626,157,105577,368,Vasek,Pospisil,R,193.0,Canada,Vasek Pospisil
+20230626,158,111505,363,Enzo,Couacaud,R,183.0,France,Enzo Couacaud
+20230626,159,110602,362,Dennis,Novak,R,183.0,Austria,Dennis Novak
+20230626,160,208233,358,Mattia,Bellucci,L,178.0,Italy,Mattia Bellucci
+20230626,161,106310,357,Alexander,Ritschard,R,193.0,Switzerland,Alexander Ritschard
+20230626,162,200647,357,Sho,Shimabukuro,U,183.0,Japan,Sho Shimabukuro
+20230626,163,144972,349,Geoffrey,Blancaneaux,R,180.0,France,Geoffrey Blancaneaux
+20230626,164,106000,347,Damir,Dzumhur,R,172.0,Bosnia and Herzegovina,Damir Dzumhur
+20230626,165,209857,346,Leandro,Riedi,R,191.0,Switzerland,Leandro Riedi
+20230626,166,125847,346,Jelle,Sels,U,188.0,Netherlands,Jelle Sels
+20230626,167,123828,346,Jan,Choinski,R,196.0,United Kingdom,Jan Choinski
+20230626,168,111200,344,Elias,Ymer,R,183.0,Sweden,Elias Ymer
+20230626,169,109739,342,Maximilian,Marterer,L,191.0,Germany,Maximilian Marterer
+20230626,170,106198,340,Hugo,Dellien,R,180.0,"Bolivia, Plurinational State of",Hugo Dellien
+20230626,171,207352,332,Bu,Yunchaokete,U,,China,Bu Yunchaokete
+20230626,172,144645,332,Zdenek,Kolar,R,185.0,Czechia,Zdenek Kolar
+20230626,173,200116,331,Camilo,Ugo Carabelli,R,185.0,Argentina,Camilo Ugo Carabelli
+20230626,174,106162,330,Franco,Agamenone,L,188.0,Italy,Franco Agamenone
+20230626,175,117360,329,Marc,Polmans,R,188.0,Australia,Marc Polmans
+20230626,176,207411,328,Jesper,De Jong,R,180.0,Netherlands,Jesper De Jong
+20230626,177,200267,327,Zizou,Bergs,R,185.0,Belgium,Zizou Bergs
+20230626,178,144821,323,Genaro Alberto,Olivieri,U,175.0,Argentina,Genaro Alberto Olivieri
+20230626,179,106045,323,Denis,Kudla,R,180.0,United States,Denis Kudla
+20230626,180,208004,321,Harold,Mayot,R,178.0,France,Harold Mayot
+20230626,181,208071,320,Oleksii,Krutykh,R,,Ukraine,Oleksii Krutykh
+20230626,182,208010,318,Pablo,Llamas Ruiz,R,188.0,Spain,Pablo Llamas Ruiz
+20230626,183,106220,317,Dimitar,Kuzmanov,R,183.0,Bulgaria,Dimitar Kuzmanov
+20230626,184,105938,317,Antoine,Escoffier,U,,France,Antoine Escoffier
+20230626,185,106044,312,Nicolas,Kicker,R,178.0,Argentina,Nicolas Kicker
+20230626,186,105814,309,Maximilian,Neuchrist,R,,Austria,Maximilian Neuchrist
+20230626,187,106293,309,Kimmer,Coppejans,R,180.0,Belgium,Kimmer Coppejans
+20230626,188,106393,309,Frederico,Ferreira Silva,L,178.0,Portugal,Frederico Ferreira Silva
+20230626,189,126964,308,Vitaliy,Sachko,R,183.0,Ukraine,Vitaliy Sachko
+20230626,190,208363,307,Mariano,Navone,U,,Argentina,Mariano Navone
+20230626,191,207660,304,Nicholas David,Ionel,R,183.0,Romania,Nicholas David Ionel
+20230626,192,207494,300,Dalibor,Svrcina,R,178.0,Czechia,Dalibor Svrcina
+20230626,193,109686,300,Riccardo,Bonadio,U,,Italy,Riccardo Bonadio
+20230626,194,105911,297,Andrea,Collarini,L,185.0,Argentina,Andrea Collarini
+20230626,195,200318,296,Yu Hsiou,Hsu,U,178.0,Chinese Taipei,Yu Hsiou Hsu
+20230626,196,106167,296,Joris,De Loore,R,191.0,Belgium,Joris De Loore
+20230626,197,111805,291,Seong Chan,Hong,R,175.0,"Korea, Republic of",Seong Chan Hong
+20230626,198,106362,290,Laurent,Lokoli,R,188.0,France,Laurent Lokoli
+20230626,199,111187,290,Kaichi,Uchida,R,180.0,Japan,Kaichi Uchida
+20230626,200,200587,286,Brandon,Holt,R,185.0,United States,Brandon Holt
+20230626,201,208260,285,Zachary,Svajda,R,175.0,United States,Zachary Svajda
+20230626,202,200096,285,Dragos Nicolae,Madaras,L,,Romania,Dragos Nicolae Madaras
+20230626,203,105575,283,Ricardas,Berankis,R,175.0,Lithuania,Ricardas Berankis
+20230626,204,105936,281,Filip,Krajinovic,R,185.0,Serbia,Filip Krajinovic
+20230626,205,105643,281,Federico,Delbonis,L,190.0,Argentina,Federico Delbonis
+20230626,206,200218,279,Mate,Valkusz,R,183.0,Hungary,Mate Valkusz
+20230626,207,202090,278,Adrian,Andreev,R,180.0,Bulgaria,Adrian Andreev
+20230626,208,123795,277,Altug,Celikbilek,R,183.0,Turkey,Altug Celikbilek
+20230626,209,208278,276,Shintaro,Mochizuki,R,175.0,Japan,Shintaro Mochizuki
+20230626,210,207182,275,Emilio,Nava,R,183.0,United States,Emilio Nava
+20230626,211,200677,275,Rio,Noguchi,U,168.0,Japan,Rio Noguchi
+20230626,212,209920,271,Raphael,Collignon,U,,Belgium,Raphael Collignon
+20230626,213,200008,271,Alexis,Galarneau,R,,Canada,Alexis Galarneau
+20230626,214,206904,271,Gauthier,Onclin,U,,Belgium,Gauthier Onclin
+20230626,215,210150,270,Jakub,Mensik,U,191.0,Czechia,Jakub Mensik
+20230626,216,208659,268,Giovanni,Mpetshi Perricard,R,201.0,France,Giovanni Mpetshi Perricard
+20230626,217,105449,267,Steve,Johnson,R,188.0,United States,Steve Johnson
+20230626,218,111794,265,Kamil,Majchrzak,R,183.0,Poland,Kamil Majchrzak
+20230626,219,105943,263,Federico,Gaio,R,180.0,Italy,Federico Gaio
+20230626,220,126555,262,Tung Lin,Wu,R,188.0,Chinese Taipei,Tung Lin Wu
+20230626,221,105882,262,Stefano,Travaglia,R,185.0,Italy,Stefano Travaglia
+20230626,222,111576,261,Sumit,Nagal,R,178.0,India,Sumit Nagal
+20230626,223,200572,260,Nick,Hardt,R,183.0,Dominican Republic,Nick Hardt
+20230626,224,209260,256,Luciano,Darderi,R,183.0,Italy,Luciano Darderi
+20230626,225,144918,254,Edoardo,Lavagno,L,,Italy,Edoardo Lavagno
+20230626,226,117356,253,Cem,Ilkel,R,185.0,Turkey,Cem Ilkel
+20230626,227,105952,253,Renzo,Olivo,R,180.0,Argentina,Renzo Olivo
+20230626,228,144973,253,Santiago Fa,Rodriguez Taverna,R,191.0,Argentina,Santiago Fa Rodriguez Taverna
+20230626,229,208013,253,Dane,Sweeny,R,170.0,Australia,Dane Sweeny
+20230626,230,106214,251,Oscar,Otte,R,196.0,Germany,Oscar Otte
+20230626,231,105539,251,Evgeny,Donskoy,R,185.0,Russian Federation,Evgeny Donskoy
+20230626,232,105477,250,Marco,Trungelliti,R,178.0,Argentina,Marco Trungelliti
+20230626,233,144826,249,Aziz,Dougaz,L,188.0,Tunisia,Aziz Dougaz
+20230626,234,105815,247,Tennys,Sandgren,R,188.0,United States,Tennys Sandgren
+20230626,235,105561,247,Alessandro,Giannessi,L,183.0,Italy,Alessandro Giannessi
+20230626,236,126504,246,Andrea,Pellegrino,R,185.0,Italy,Andrea Pellegrino
+20230626,237,210136,244,Mark,Lajal,R,188.0,Estonia,Mark Lajal
+20230626,238,208882,242,Roman Andres,Burruchaga,U,,Argentina,Roman Andres Burruchaga
+20230626,239,202320,240,Beibit,Zhukayev,R,196.0,Kazakhstan,Beibit Zhukayev
+20230626,240,209406,238,Abedallah,Shelbayh,L,180.0,Jordan,Abedallah Shelbayh
+20230626,241,209279,238,Terence,Atmane,L,,France,Terence Atmane
+20230626,242,207681,236,Francisco,Comesana,R,178.0,Argentina,Francisco Comesana
+20230626,243,126663,234,Juan Pablo,Ficovich,R,191.0,Argentina,Juan Pablo Ficovich
+20230626,244,200711,234,Nicolas,Mejia,R,185.0,Colombia,Nicolas Mejia
+20230626,245,126149,232,Gianluca,Mager,R,185.0,Italy,Gianluca Mager
+20230626,246,202122,231,Yuta,Shimizu,L,163.0,Japan,Yuta Shimizu
+20230626,247,111454,230,Li,Tu,R,180.0,Australia,Li Tu
+20230626,248,207799,229,Matheus,Pucinelli De Almeida,R,183.0,Brazil,Matheus Pucinelli De Almeida
+20230626,249,200443,229,Adam,Walton,U,183.0,Australia,Adam Walton
+20230626,250,210506,227,Alex,Michelsen,U,,United States,Alex Michelsen
